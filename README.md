@@ -12,3 +12,5 @@
 ## 7.NLP
 
 
+Keras 훑어보기
+https://wikidocs.net/32105
